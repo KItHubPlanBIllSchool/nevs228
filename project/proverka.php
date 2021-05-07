@@ -14,6 +14,7 @@
 			echo "net";
 		}else
 		{
+			header('Location: index.php');
 		}
 
 		
